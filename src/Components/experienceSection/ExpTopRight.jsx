@@ -3,7 +3,7 @@ import React from 'react'
 const ExpTopRight = () => {
   return (
     <div className='xl:w-[25%] lg:w-[30%] w-full border border-lightBrown p-4 rounded-xl hover:shadow-lg transition-all duration-300 bg-black/20'>
-      {/* Le agregué un bg muy sutil para que destaque del fondo */}
+    
       
       <h3 className='text-xl font-bold text-white mb-2 text-center'>
         Impacto Real

@@ -9,14 +9,14 @@ const ProjectsMain = () => {
       nombre: "Clon Mercado Libre",
       anio: "Julio2024",
       alineacion: "derecha",
-      imagen: "../../public/images/website-img-1.jpg",
+      imagen: "../images/website-img-1.jpg",
       link: "https://mer-libre.vercel.app/",
     },
     {
       nombre: "Pixel-Salud",
       anio: "Agosto2025",
       alineacion: "izquierda",
-      imagen: "../../public/images/website-img-3.jpg",
+      imagen: "../images/website-img-3.jpg",
       link: "https://pixel-salud-gold.vercel.app/",
     },
   ];
