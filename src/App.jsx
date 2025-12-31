@@ -6,9 +6,10 @@ import AboutMeMain from "./Components/aboutMeSection/AboutMeMain"
 import SkillsMain from "./Components/skillsSection/SkillsMain"
 import SubSkills from "./Components/skillsSection/SubSkills"
 import ExpMain from "./Components/experienceSection/ExpMain"
-import ProjectsMain from './Components/ProjectsSection/ProjectsMain'
+import ProjectsMain from './Components/projectsSection/ProjectsMain' // <--- ¡Acá estaba el error! (p minúscula)
 import ContactMain from "./Components/contactMeSection/ContactMain"
 import FooterMain from "./Components/footer/FooterMain"
+
 function App() {
 
   return (
